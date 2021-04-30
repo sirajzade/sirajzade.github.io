@@ -1,2 +1,13 @@
 theme: jekyll-theme-cayman
 title: Dr. Joshgun Sirajzade
+
+docs:
+
+- title: Introduction
+  url: introduction.html
+
+- title: Configuration
+  url: configuration.html
+
+- title: Deployment
+  url: deployment.html
